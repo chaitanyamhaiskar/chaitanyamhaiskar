@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div> -->
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1_vpnI-sTbbqGPh3_Ooh3p63dSK5F7JOZ/view?usp=sharing" width="100"/>
+  <img src="https://github.com/CMxSAHAB/Portfolio/blob/sample/assets/img/Gray%20Geometric%20Business%20Consultant%20Linkedln%20Banner.png" />
 </div>
 
 - 🔭 I’m currently working on Android Development with Java and interested in Data Science
@@ -18,7 +18,6 @@
 - 👯 I’m looking to work under professional for internship 
 - 🤔 I’m looking for help with for mentor who can guide me for data science and App Development.
 
-Stats ->
 <br> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=CMxSAHAB&show_icons=true" alt="cmsahab" />
 <br> <br>
