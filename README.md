@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div> -->
+<div id="header" align="center">
+  <img src="https://drive.google.com/file/d/1_vpnI-sTbbqGPh3_Ooh3p63dSK5F7JOZ/view?usp=sharing" width="100"/>
+</div>
 
 - 🔭 I’m currently working on Android Development with Java and interested in Data Science
 - 🌱 I’m currently learning kotlin 
