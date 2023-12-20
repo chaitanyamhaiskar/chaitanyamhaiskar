@@ -13,10 +13,10 @@
   <img src="https://github.com/CMxSAHAB/Portfolio/blob/sample/assets/img/Gray%20Geometric%20Business%20Consultant%20Linkedln%20Banner.png" />
 </div>
 
-- 🔭 I’m currently working on Android Development with Java and interested in Data Science
-- 🌱 I’m currently learning kotlin 
+- 🔭 I’m currently in Data Science Field
+- 🌱 Love to work on Data Sets and 
 - 👯 I’m looking to work under professional for internship 
-- 🤔 I’m looking for help with for mentor who can guide me for data science and App Development.
+- 🤔 I’m looking for help with for mentor who can guide me for data science.
 
 <br> <br>
 <img src="https://github-readme-stats.vercel.app/api?username=CMxSAHAB&show_icons=true" alt="cmsahab" />
