@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div> -->
 <div id="header" align="center">
-  <img src="[https://github.com/CMxSAHAB/Portfolio/blob/sample/assets/img/Gray%20Geometric%20Business%20Consultant%20Linkedln%20Banner.png](https://github.com/chaitanyamhaiskar/Portfolio/blob/sample/assets/img/cmhaiskar00%40gmail.com.png)" />
+  <img src="https://github.com/chaitanyamhaiskar/Portfolio/blob/sample/assets/img/cmhaiskar00%40gmail.com.png" />
 </div>
 
 - 🔭 I’m currently in Data Science Field
